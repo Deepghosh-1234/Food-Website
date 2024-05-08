@@ -26,7 +26,9 @@
 https://food-website-sage-eta.vercel.app/
 
 ## Technology used
- Html css javasceipt
+ -Html
+ -css
+ -Javascript
 
 ## Made by
 https://github.com/Deepghosh-1234
